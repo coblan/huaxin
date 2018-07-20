@@ -4,7 +4,7 @@ from .logging import*
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'zhaoxiang_gis',
+        'NAME': 'huaxin',
         #'USER': 'postgres',
         #'PASSWORD': '123',
         'USER': 'root',
